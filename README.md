@@ -7,3 +7,9 @@ Algorithm covering all the famous places near it which are recommended for the u
 
 
 <img src = "output1.png"/>
+<br>
+<img src = "output2.png"/>
+<br>
+<img src = "output3.png"/>
+<br>
+<img src = "output4.png"/>
